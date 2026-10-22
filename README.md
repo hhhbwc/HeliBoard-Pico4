@@ -5,7 +5,7 @@ Does not use internet permission, and thus is 100% offline.
 
 ## 👓 Screenshot
 
-<image src="./src/Screenshot.jpeg" width="400"/>
+<img src="./src/Screenshot.jpeg" width="400"/>
 
 ## 🖥️ Features
 
